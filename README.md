@@ -28,10 +28,6 @@
 - `message_1.html` → Instagram chat backups (HTML)
 - `.txt` → WhatsApp plain text exports
 
-## 📸 Preview Screenshot
-
-[Add screenshot here]
-
 ## 🧰 Requirements
 
 - Python 3.8 or higher
@@ -39,6 +35,6 @@
   - `beautifulsoup4`
   - `tkinter` (built-in with Python)
 
-Install with:
+Install beautifulsoup4 with:
 ```bash
 pip install beautifulsoup4
